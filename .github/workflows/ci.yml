@@ -46,10 +46,10 @@ jobs:
     steps:
     - name: Checking out code from GitHub
       uses: actions/checkout@v5.0.1
-    - name: Set up Python 3.13
+    - name: Set up Python 3.14
       uses: actions/setup-python@v6.2.0
       with:
-        python-version: 3.13
+        python-version: 3.14
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip pdoc3
