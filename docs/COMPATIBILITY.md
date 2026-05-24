@@ -9,5 +9,5 @@ Visit a model's details page to see the full feature-level compatibility matrix 
 
 > **Adding a new model?**
 > The goal is to identify both supported and known unsupported models.  This allows us to track and add new mappings targeted at specific models.  Please open a PR with the following changes to contribute to this list.
-> 1. Create `docs/compatibility/<model>.md` using the template in [`compatibility/template.md`](compatibility/template.md) as a reference.
+> 1. Create `docs/compatibility/{model}.md` using the template in [`compatibility/template.md`](compatibility/template.md) as a reference.
 > 2. Add a row to the table above with the model, transport support, and a link to the new file.

@@ -1,4 +1,4 @@
-# <model> — Compatibility Matrix
+# {model} — Compatibility Matrix
 
 ---
 
