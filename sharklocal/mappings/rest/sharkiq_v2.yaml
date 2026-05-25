@@ -1,9 +1,9 @@
-id: sharkiq_v1
-description: "SharkIQ vacuum local REST API (HTTPS with self-signed certificate)"
-transport: https
-priority: 15
+id: sharkiq_v2
+description: "SharkIQ vacuum local REST API (Direct control)"
+transport: http
+priority: 20
 connection:
-  port: 443
+  port: 8080
   verify_ssl: false
 
 # Maps REST mode strings returned by /get/status to normalized VacuumMode values.
