@@ -1,4 +1,4 @@
-# RV1100AR Series Shark IQ/AV1110ARUS — Compatibility Matrix
+# RV1100ARUS/AV1110ARUS — Compatibility Matrix
 
 ---
 
